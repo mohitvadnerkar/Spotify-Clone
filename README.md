@@ -6,13 +6,19 @@ This project allows you to play, pause, skip, and interact with songs just like 
 ⚡ Features
 
 🎶 Play / Pause songs
+
 ⏩ Next / Previous song controls
+
 📊 Interactive seek bar
+
 🎧 Animated GIF (playing.gif) while music is playing
+
 🖼️ Song cover and title updates dynamically
 
 🛠️ Technologies Used
 
 HTML5 – Structure of the app
+
 CSS3 – Styling and layout
+
 JavaScript (ES6) – Music control and interactivity
